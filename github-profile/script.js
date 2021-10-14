@@ -16,7 +16,7 @@ async function getRepos(username) {
     addRepostoCard(respData);
 }
 
-getUser('Lmath2001');
+getUser('jakeherp');
 
 function createUserCard(user) {
     const cardHTML = `
